@@ -1,6 +1,6 @@
 # MiachelZyc Account Profile | 技术档案 🚀
 
-![Wakatime](https://wakatime.com/badge/user/xxx.svg) ![Profile Views](https://komarev.com/ghpvc/?username=MiachelZyc&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=MiachelZyc&label=Profile%20views&color=0e75b6&style=flat) 
 
 ## ℹ️ Info | 基本信息
 **Full Stack Developer** | ​**全栈工程师**  
