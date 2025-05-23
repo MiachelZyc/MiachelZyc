@@ -23,12 +23,5 @@ Specializing in:
 
 ## 🏆 Projects | 项目展示  
 
-<!-- GitHub Repository Card -->
-[![My Project](https://img.shields.io/badge/Project%20Name-YourProject-blue)](https://github.com/yourusername/yourproject)
-
-<!-- Dynamic Project List (with GitHub API) -->
-![Your GitHub Project](https://github-readme-projects.vercel.app/api/pinned/?username=MiachelZyc)
-
-
 ## 📊 GitHub Stats | 数据统计  
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=MiachelZyc&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=我的统计数据"/><div text-align="center"><img src="https://github-profile-trophy.vercel.app/?username=AZCodingAccount&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
